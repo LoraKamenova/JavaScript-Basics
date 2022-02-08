@@ -1,3 +1,5 @@
 function Hello () {
 
 }
+
+hello()
