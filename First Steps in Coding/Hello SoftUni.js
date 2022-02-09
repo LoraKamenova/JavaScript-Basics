@@ -2,4 +2,3 @@ function Hello () {
 
 }
 
-hello()
