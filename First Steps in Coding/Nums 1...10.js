@@ -1,4 +1,4 @@
 function Numbers () {
-    let result;
+    let result = [];
 }
 Numbers()
