@@ -1,5 +1,5 @@
 function rectangleArea() {
-    let result;
+    let result = [];
 }
 
 rectangleArea()
