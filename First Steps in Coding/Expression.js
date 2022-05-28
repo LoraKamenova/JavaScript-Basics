@@ -1,4 +1,5 @@
-function Expression () {
+function Expression() {
     let result = [];
 }
+
 Expression();
